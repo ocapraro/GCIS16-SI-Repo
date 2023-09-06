@@ -1,2 +1,2 @@
 Write your invalid variables below:
-$name (Oscar)
+$name
